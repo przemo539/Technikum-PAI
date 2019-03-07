@@ -1,0 +1,189 @@
+	     /* ------------------------ POZIOME MENU CSS ------------------------ */
+      /* wygląd elementu - ol */
+      #menu {
+        width:1200px;
+		height:90px;
+        margin:0 auto;
+        padding:0;
+		padding-bottom: 20px;
+        list-style-type:none;
+      }
+
+      /* naprawa wysokości elementu - ol */
+      #menu:after {
+        content:'';
+        display:block;
+        clear:both;
+      }
+
+      /* wygląd elementów - li */
+      #menu > li {
+        float:left;
+      }
+
+      /* pierwszy element - li - elementu o identyfikatorze menu */
+      #menu > li:first-child {
+        background-color:red;
+        width:200px;
+      }
+
+      /* drugi element - li - elementu o identyfikatorze menu */
+      #menu > li:first-child + li {
+        background-color:green;
+        width:200px;
+      }
+
+      /* trzeci element - li - elementu o identyfikatorze menu */
+      #menu > li:first-child + li + li{
+        background-color:blue;
+        width:200px;
+      }      
+	  /* czwarty element - li - elementu o identyfikatorze menu */
+      #menu > li:first-child + li + li + li{
+        background-color:blue;
+        width:200px;
+      }	  
+	  /* piąty element - li - elementu o identyfikatorze menu */
+      #menu > li:first-child + li + li + li + li {
+        background-color:blue;
+        width:200px;
+      }	  
+	  /* szósty element - li - elementu o identyfikatorze menu */
+      #menu > li:first-child + li + li + li+ li+ li{
+        background-color:blue;
+        width:200px;
+      }
+
+      /* wygląd elementów - a */
+      #menu > li > a {
+        display:block;
+        padding:15px;
+		height:60px;
+        text-decoration:none;
+        text-align:center;
+        color:#000;
+        background-color:#DDD;
+        box-shadow:0 0 0 1px #FFF inset;
+        background-image:linear-gradient(#FFF 0%, #EEE 30%, #DDD 70%, #FFF 100%);
+      }
+
+      /* wygląd elementów - a - po najechaniu kursorem myszki na element - li */
+      #menu > li:hover > a {
+        color:#00F;
+        background-color:#FFF;
+        background-image:none;
+      }
+
+      /* -------------------- ROZWIJANA CZĘŚĆ MENU CSS -------------------- */
+      /* wygląd elementów - li - rodzica każdej części rozwijanej menu CSS */
+      #menu > li {
+        position:relative;
+      }
+
+      /* wygląd elementów - ul */
+      #menu > li > ul {
+        width:100%;
+        visibility:hidden;
+        position:absolute;
+        z-index:1;
+        margin:0;
+        padding:0;
+        list-style-type:none;
+        background-color:#FFF;
+      }
+
+      /* wygląd elementów - ul - po najechaniu kursorem myszki na element - li */
+      #menu > li:hover > ul {
+        visibility:visible;
+      }
+
+      /* wygląd elementów - li */
+      #menu > li > ul > li {
+        box-shadow:0 -4px 4px -4px #AAA;
+      }
+
+      /* wygląd pierwszego dziecka elementu typu - li */
+      #menu > li > ul > li:first-child {
+        box-shadow:none;
+      }
+
+      /* wygląd ostatniego dziecka elementu typu - li */
+      #menu > li > ul > li:last-child {
+        box-shadow:0 -4px 4px -4px #AAA, 0 4px 4px -4px #AAA;
+      }
+
+      /* wygląd elementów - a */
+      #menu > li > ul > li > a {
+        display:block;
+        text-decoration:none;
+        padding:15px;
+        color:#000;
+      }
+
+      /* wygląd elementów - a - po najechaniu kursorem myszki na element - li */
+      #menu > li > ul > li:hover > a {
+        color:#00F; 
+        background-color:#F0F0F0;
+        background-image:linear-gradient(#FFF, #EEE, #FFF);
+      }
+
+      /* --------------- ANIMOWANIE ROZWIJANEJ CZĘŚCI MENU CSS --------------- */
+      /* wygląd elementów - ul */
+      #menu > li > ul {
+        transform:scaleY(0);
+        -webkit-transform:scaleY(0);
+        transform-origin:50% 0;
+        -webkit-transform-origin:50% 0;
+        transition:250ms;
+      }
+
+      /* wygląd elementów - ul - po najechaniu kursorem myszki na element - li */
+      #menu > li:hover > ul {
+        transform:scaleY(1);
+        -webkit-transform:scaleY(1);
+      }
+	  
+	  
+	  /********************************************************PIONOWE****************************************************************************/
+	        /* wygląd elementu - ul */
+      ul {
+        list-style-type:none;
+        margin:0;
+        padding:0;
+        border:1px solid #CCC;
+        width:340px;
+        box-shadow:0 6px 6px -6px #666;
+      }
+
+      /* wygląd elementów - li */
+      ul li {
+        border-top:1px solid #CCC;
+      }
+
+      /* wygląd pierwszego elementu - li */
+      ul li:first-child {
+        border-top:none;
+      }
+
+      /* wygląd elementów - a */
+      ul li a {
+        display:block;
+        text-decoration:none;
+        background-color:#EEE;
+        padding:10px;
+        text-align:center;
+        color:#00A0AA;
+        text-shadow:1px 1px 0 #FFF, 1px 2px 0 #AAA, 1px 2px 6px #AAA;
+        font-size:18px;
+        border:1px solid #FFF;
+        background-image:url('obrazek.png');
+        background-repeat:repeat-x;
+        background-image:radial-gradient(ellipse at bottom, #FFF 0%, #DDD 100%);
+      }
+
+      /* wygląd elementu - a - w momencie najechania na niego kursorem myszki */
+      ul li a:hover {
+        color:#000;
+        background-color:#FFF;
+        background-image:none;
+      }

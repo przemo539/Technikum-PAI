@@ -1,0 +1,39 @@
+      #caly_blok {
+		margin: 0 auto;
+        font-size:24px;
+		width:1240px;
+		height:1000px;
+      }
+
+      #naglowek {
+        background-color:gold;
+        text-align:center;
+      }
+
+      #lewy {
+        float:left;
+        background-color:#DDD;
+        min-height:700px;
+        width:30%;
+      }
+
+      #prawy {
+        float:left;
+        background-color:#EEE;
+        min-height:700px;
+        width:70%;
+      }
+
+      #stopka {
+        clear:both;
+        background-color:gold;
+        text-align:center;
+      }
+
+      .odstep {
+        margin:0;
+        padding:15px;
+      }      
+	  .wysrodkuj {
+        text-align:center;
+      }	  
