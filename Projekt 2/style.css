@@ -1,0 +1,203 @@
+#kontener{
+	width:1002px;
+	margin: 0 auto;
+}
+#baner{
+	width:1000px;
+	height:200px;
+	border: solid 1px;
+	background-color: #aabbff;
+	overflow: hidden;
+}
+#menu{
+	border-bottom:solid 1px;
+	border-left:solid 1px;
+	border-right:solid 1px;
+	width: 400px;
+	min-height: 650px;
+	float: left;
+	text-align:center;
+}
+#tresc{
+	width: 599px;
+	border-right: solid 1px;
+	border-bottom:solid 1px;
+	min-height: 650px;
+	float: left;
+	text-align: center;
+	position: relative;
+}
+#stopka{
+	clear:both;
+	width: 970px;
+	height: 85px;
+	border-bottom: solid 1px;
+	border-left: solid 1px;
+	border-right:solid 1px;
+	background-color: #aabbff;
+	padding: 15px;
+	text-align: center;
+	font-size: 20pt;
+}
+#logowanie{
+	padding: 10px 10px 10px 10px;
+}
+#alert{
+	display:block;
+}
+#ERROR{
+	position: fixed;
+	width:36%;
+	height:30%;
+    left: 32%;
+    top: 35%;
+	border: solid 2px;
+	border-color: red;
+	background-color: white;
+	border-radius: 16px 16px 0 0;
+}
+#ERROR_TEXT{
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+	font-size: 15pt;
+}
+#ERROR_NAGLOWEK{
+	background-color: #FF2626;
+	height: 30%;
+	text-align: center;
+	padding: 15px 15px 15px 15px;
+	font-size: 19pt;
+	border-radius: 16px 16px 0 0;
+	border-bottom: solid 2px;
+	border-bottom-color: red;
+	border-top: solid 2px;
+	border-top-color: red;
+}
+#DONE{
+	position: fixed;
+	width:36%;
+	height:30%;
+    left: 32%;
+    top: 35%;
+	border: solid 2px;
+	border-color: #00CC00;
+	background-color: white;
+	border-radius: 16px 16px 0 0;
+}
+#DONE_NAGLOWEK{
+	background-color: #80FF00;
+	height: 30%;
+	text-align: center;
+	padding: 15px 15px 15px 15px;
+	font-size: 19pt;
+	border-radius: 16px 16px 0 0;
+	border-bottom: solid 2px;
+	border-bottom-color: #00CC00;
+	border-top: solid 2px;
+	border-top-color: #00CC00;
+}
+#DONE_TEXT{
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+	font-size: 15pt;
+}
+#zaciemnienie_tla{
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	background: rgba(0, 0, 0, 0.9);
+	height: 100%;
+	width: 100%;
+	z-index: 1;
+}
+#paginacja{
+	position: absolute;
+	bottom: 10px;
+	width: 599px;
+	text-align:center;
+}
+table{
+	text-align: center;
+}
+#POKAZ{
+	position: fixed;
+	width:36%;
+	height:30%;
+    left: 32%;
+    top: 35%;
+	border: solid 2px;
+	border-color: #909090;
+	background-color: white;
+	border-radius: 16px 16px 0 0;
+}
+#POKAZ2{
+	position: fixed;
+	width:60%;
+	height:60%;
+    left: 20%;
+    top: 20%;
+	border: solid 2px;
+	border-color: #909090;
+	background-color: white;
+	border-radius: 16px 16px 0 0;
+	overflow: scroll;
+}
+#POKAZ_TLO{
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	background: rgba(0, 0, 0, 0.2);
+	height: 100%;
+	width: 100%;
+	z-index: 1;
+}
+#POKAZ_NAGLOWEK{
+	background-color: #aaaaaa;
+	height: 30%;
+	text-align: center;
+	padding: 15px 15px 15px 15px;
+	font-size: 19pt;
+	border-radius: 16px 16px 0 0;
+	border-bottom: solid 2px;
+	border-bottom-color: #909090;
+	border-top: solid 2px;
+	border-top-color: #909090;
+}
+#POKAZ_TEXT{
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+	font-size: 15pt;
+}
+.POPRAWNIE{
+	color: green;
+}
+.ZLE{
+	color: red;
+}
+#Pole_login{
+	position:relative; 
+	left: 5px;
+}
+#Pole_haslo{
+	position:relative; 
+	left: 6px;
+}
+#panel{
+	position:relative; 
+	bottom: 20px;
+	left: 10px;
+}
+#panel a{
+	color: red;
+}
+#rejestruj{
+	text-align: center;
+}
+.odsun{
+	position:relative; 
+	left: 20px;
+}
+.odsun2{
+	position:relative; 
+	left: 18px;
+}
