@@ -1,0 +1,24 @@
+﻿
+<center><h3>Trygonometria - zadania</h3></center>
+
+<a href="#" onclick="document.getElementById('zad1').style.display == 'block'?document.getElementById('zad1').style.display = 'none':document.getElementById('zad1').style.display = 'block';">Zadanie 1</a> 
+<div id="zad1" style="display:none">Podaj wartość kąta &alpha;.
+a)<br><img src="http://www.matematykam.pl/images/p182_0_04_02.png" alt="zadanie" /> <a href="#" onclick="javascript:window.open('http://www.matematykam.pl/files/pop_p1820_042.html', '', 'width=150px, height=150px');return false;" title=""> Wynik</a>
+b)<br><img src="http://www.matematykam.pl/images/p182_0_04_04.png" alt="Zadanie" /> <a href="#" onclick="javascript:window.open('http://www.matematykam.pl/files/pop_p1820_046.html', '', 'width=150px, height=150px');return false;" title=""> Wynik</a>
+</div>
+
+<a href="#" onclick="document.getElementById('zad2').style.display == 'block'?document.getElementById('zad2').style.display = 'none':document.getElementById('zad2').style.display = 'block';">Zadanie 2</a> 
+<div id="zad2" style="display:none">Rozwiąż trójkąt prostokątny.
+a)<br><img src="http://www.matematykam.pl/images/l14i01.jpg" alt="zadanie" /> <a href="#" onclick="javascript:window.open('http://www.matematykam.pl/files/pop_p1820_062.html', '', 'width=150px, height=150px');return false;" title=""> Wynik</a>
+b)<br><img src="http://www.matematykam.pl/images/l14i03.jpg" alt="Zadanie" /> <a href="#" onclick="javascript:window.open('http://www.matematykam.pl/files/pop_p1820_072.html', '', 'width=150px, height=150px');return false;" title=""> Wynik</a>
+</div>
+
+<a href="#" onclick="document.getElementById('zad3').style.display == 'block'?document.getElementById('zad3').style.display = 'none':document.getElementById('zad3').style.display = 'block';">Zadanie 3</a> 
+<div id="zad3" style="display:none">Drabina o długości 3m jest oparta o mur pod kątem do poziomu. Na jaką wysokość sięga drabina?
+<a href="#" onclick="javascript:window.open('http://www.matematykam.pl/files/pop_p1820_002.html', '', 'width=150px, height=150px');return false;" title=""> Wynik</a>
+</div>
+
+<a href="#" onclick="document.getElementById('zad4').style.display == 'block'?document.getElementById('zad4').style.display = 'none':document.getElementById('zad4').style.display = 'block';">Zadanie 4</a> 
+<div id="zad4" style="display:none">Kąt ostry trapezu równoramiennego ma miarę . Oblicz jego pole, jeżeli jego podstawy mają długość 12cm i 6cm.
+<a href="#" onclick="javascript:window.open('http://www.matematykam.pl/files/pop_p1820_092.html', '', 'width=150px, height=150px');return false;" title=""> Wynik</a>
+</div>

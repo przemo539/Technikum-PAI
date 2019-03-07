@@ -1,0 +1,7 @@
+﻿
+<center><h3>Wielomian sposoby rozwiazywania</h3></center>
+
+<a href="#" onclick="document.getElementById('wzor_mnozenia').style.display == 'block'?document.getElementById('wzor_mnozenia').style.display = 'none':document.getElementById('wzor_mnozenia').style.display = 'block';">1.Wzór skróconego mnożenia</a> <div id="wzor_mnozenia" style="display:none"><img src="http://www.matematykam.pl/images/l10b06b.jpg" alt="wzory" /><img src="http://www.matematykam.pl/images/l10b06c.jpg" alt="wzory2"/></div>
+<a href="#" onclick="document.getElementById('grupowanie').style.display == 'block'?document.getElementById('grupowanie').style.display = 'none':document.getElementById('grupowanie').style.display = 'block';">2.Grupowanie</a><div id="grupowanie" style="display:none"><img src="http://www.matematykam.pl/images/l2b06.jpg" alt="grupowanie" /></div>
+<a href="#" onclick="document.getElementById('czynnik').style.display == 'block'?document.getElementById('czynnik').style.display = 'none':document.getElementById('czynnik').style.display = 'block';">3.Wyciąganie czynnika</a><div id="czynnik" style="display:none"><img src="http://www.matematykam.pl/images/l10b06a.jpg" alt="czynnik" /></div>
+<a href="#" onclick="document.getElementById('kwadrat').style.display == 'block'?document.getElementById('kwadrat').style.display = 'none':document.getElementById('kwadrat').style.display = 'block';">4.Zamiana funkcji kwadratowej w postać iloczynową</a><div id="kwadrat" style="display:none"><img src="http://www.matematykam.pl/images/l10b06d.jpg" alt="kwadrat" /></div>

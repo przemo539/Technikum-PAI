@@ -1,0 +1,5 @@
+<center><h3>Monotoniczność funkcji kwadratowej</h3></center>
+
+Funkcja kwadratowa w pewnym przedziale jest funkcją rosnącą, a w pewnym malejącą. 
+<b>Jeśli a > 0 funkcja jest rosnąca dla x∈(−b2a,+∞), malejąca dla x∈(−∞,−b2a).
+Jeżeli a < 0 funkcja jest rosnąca dla x∈(−∞,−b2a), malejąca dla x∈(−b2a,+∞). </b>

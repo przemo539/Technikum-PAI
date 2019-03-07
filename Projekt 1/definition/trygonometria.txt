@@ -1,0 +1,9 @@
+﻿<center><h3>Trygonometria</h3></center>
+
+<b>Sinusem kąta &alpha;</b> w trójkącie prostokątnym nazywamy stosunek długości przyprostokątnej przeciwległej do kąta &alpha; do długości przeciwprostokątnej.
+
+<b>Cosunisem kąta &alpha;</b> w trójkącie prostokątnym nazywamy stosunek długości przyprostokątnej przyległej do kąta &alpha; do długości przeciwprostokątnej.
+
+<b>Tangensem kąta &alpha;</b> w trójkącie prostokątnym nazywamy stosunek długości przyprostokątnej przeciwległej kątowi &alpha; do długości przyprostokątnej przyległej do tego kąta.
+
+<b>Cotangensem kąta &alpha;</b> w trójkącie prostokątnym nazywamy stosunek długosci przyprostokątnej przyległej do kąta &alpha; do długości przyprostokątnej przeciwległej temu kątowi.

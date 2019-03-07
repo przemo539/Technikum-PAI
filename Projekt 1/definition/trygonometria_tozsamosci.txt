@@ -1,0 +1,9 @@
+﻿<center><h3>Tożsamości</h3></center>
+<b>Jedynka trygonometryczna</b>
+<img src="http://www.matematyka.pl/latexrender/pictures/2/6/26ca12afbefc872d5c8fdc2208c9e4d0.png" alt="jedynka"/>
+
+<b>Def. Tangensa</b>
+<img src="https://upload.wikimedia.org/math/3/8/f/38f3ebf9230bffc84aca51d191003ece.png" alt="tang" />
+
+<b>Def. Cotangensa</b>
+<img src="https://upload.wikimedia.org/math/b/6/3/b637b4dabc86207113ab9a05aa5508e3.png" alt="ctg" />

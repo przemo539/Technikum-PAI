@@ -1,0 +1,20 @@
+﻿
+<center><h3>Wielomian - zadania</h3></center>
+
+<a href="#" onclick="document.getElementById('zad1').style.display == 'block'?document.getElementById('zad1').style.display = 'none':document.getElementById('zad1').style.display = 'block';">Zadanie 1</a> 
+<div id="zad1" style="display:none">Określ stopień podanych wielomianów, wykonaj podane działanie i określ stopień otrzymanego wielomianu. 
+a)<br><img src="http://www.matematykam.pl/images/p150_0_03_01.png" alt="zadanie" /> <a href="#" onclick="javascript:window.open('http://www.matematykam.pl/files/pop_p1500_032.html', '', 'width=410px, height=270px');return false;" title=""> Wynik</a>
+b)<br><img src="http://www.matematykam.pl/images/p150_0_04_01.png" alt="Zadanie" /> <a href="#" onclick="javascript:window.open('http://www.matematykam.pl/files/pop_p1500_042.html', '', 'width=410px, height=270px');return false;" title=""> Wynik</a>
+</div>
+
+<a href="#" onclick="document.getElementById('zad2').style.display == 'block'?document.getElementById('zad2').style.display = 'none':document.getElementById('zad2').style.display = 'block';">Zadanie 2</a> 
+<div id="zad2" style="display:none">Rozłóż wielomiany na czynniki. 
+a)<br><img src="http://www.matematykam.pl/images/p150_0_00_01.png" alt="zadanie" /> <a href="#" onclick="javascript:window.open('http://www.matematykam.pl/files/pop_p1500_002.html', '', 'width=150px, height=150px');return false;" title=""> Wynik</a>
+b)<br><img src="http://www.matematykam.pl/images/p150_0_00_02.png" alt="Zadanie" /> <a href="#" onclick="javascript:window.open('http://www.matematykam.pl/files/pop_p1500_004.html', '', 'width=150px, height=150px');return false;" title=""> Wynik</a>
+</div>
+
+<a href="#" onclick="document.getElementById('zad3').style.display == 'block'?document.getElementById('zad3').style.display = 'none':document.getElementById('zad3').style.display = 'block';">Zadanie 3</a> 
+<div id="zad3" style="display:none">Rozwiąż równania.
+a)<br><img src="http://www.matematykam.pl/images/p150_0_02_01.png" alt="zadanie" /> <a href="#" onclick="javascript:window.open('http://www.matematykam.pl/files/pop_p1500_022.html', '', 'width=150px, height=150px');return false;" title=""> Wynik</a>
+b)<br><img src="http://www.matematykam.pl/images/p150_0_02_02.png" alt="Zadanie" /> <a href="#" onclick="javascript:window.open('http://www.matematykam.pl/files/pop_p1500_024.html', '', 'width=150px, height=150px');return false;" title=""> Wynik</a>
+</div>

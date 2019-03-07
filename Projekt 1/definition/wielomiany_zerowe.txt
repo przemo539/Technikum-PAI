@@ -1,0 +1,5 @@
+﻿<center><h3>Wielomian zerowy</h3></center>
+Wielomian <b>W(x)=0</b> nazywamy wielomianem zerowym i przyjmujemy, że nie ma określonego stopnia.
+Dwa niezerowe wielomiany są równe wtedy i tylko wtedy, gdy są tego samego stopnia i mają równe współczynniki przy odpowiednich potęgach.
+Zmieniając znaki wszystkich jednomianów tworzących wielomian na przeciwne otrzymujemy wielomian do niego przeciwny. 
+Dla każdego wielomianu W(x), wielomian −W(x)=(−1)⋅W(x) jest przeciwny do W(x). Suma W(x)+(−W(x)) jest wielomianem zerowym. 

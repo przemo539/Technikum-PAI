@@ -1,0 +1,29 @@
+<center><h3>Funkcja kwadratowa - Zadania</h3></center>
+<a href="#" onclick="document.getElementById('zad1').style.display == 'block'?document.getElementById('zad1').style.display = 'none':document.getElementById('zad1').style.display = 'block';">Zadanie 1</a> 
+<div id="zad1" style="display:none">Podaj wyróżnik, miejsca zerowe oraz współrzędne wierzchołka funkcji kwadratowej.
+a)<img src="http://www.matematykam.pl/images/p145_0_06_01.png" alt="zadanie" /> <a href="#" onclick="javascript:window.open('http://www.matematykam.pl/files/pop_p1450_062.html', '', 'width=300px, height=350px');return false;" title=""> Wynik</a>
+b)<img src="http://www.matematykam.pl/images/p145_0_06_02.png" alt="zadanie" /> <a href="#" onclick="javascript:window.open('http://www.matematykam.pl/files/pop_p1450_064.html', '', 'width=300px, height=350px');return false;" title=""> Wynik</a> 
+c)<img src="http://www.matematykam.pl/images/p145_0_07_01.png" alt="zadanie" /> <a href="#" onclick="javascript:window.open('http://www.matematykam.pl/files/pop_p1450_072.html', '', 'width=300px, height=350px');return false;" title=""> Wynik</a> </div>
+
+<a href="#" onclick="document.getElementById('zad2').style.display == 'block'?document.getElementById('zad2').style.display = 'none':document.getElementById('zad2').style.display = 'block';">Zadanie 2</a> 
+<div id="zad2" style="display:none">Zapisz wzór funkcji kwadratowej za pomocą dwóch pozostałych postaci.
+a)<img src="http://www.matematykam.pl/images/p145_0_01_01.png" alt="zadanie" /> <a href="#" onclick="javascript:window.open('http://www.matematykam.pl/files/pop_p1450_014.html', '', 'width=360px, height=350px');return false;" title=""> Wynik</a> 
+b)<img src="http://www.matematykam.pl/images/p145_0_01_02.png" alt="zadanie" /> <a href="#" onclick="javascript:window.open('http://www.matematykam.pl/files/pop_p1450_015.html', '', 'width=360px, height=350px');return false;" title=""> Wynik</a> </div>
+
+<a href="#" onclick="document.getElementById('zad3').style.display == 'block'?document.getElementById('zad3').style.display = 'none':document.getElementById('zad3').style.display = 'block';">Zadanie 3</a> 
+<div id="zad3" style="display:none">Narysuj wykres funkcji kwadratowej. 
+a)<img src="http://www.matematykam.pl/images/p145_0_02_01.png" alt="zadanie" /> <a href="#" onclick="javascript:window.open('http://www.matematykam.pl/files/pop_p1450_027.html', '', 'width=440px, height=580px');return false;" title=""> Wynik</a> 
+b)<img src="http://www.matematykam.pl/images/p145_0_02_02.png" alt="zadanie" /> <a href="#" onclick="javascript:window.open('http://www.matematykam.pl/files/pop_p1450_028.html', '', 'width=440px, height=580px');return false;" title=""> Wynik</a> 
+</div>
+
+<a href="#" onclick="document.getElementById('zad4').style.display == 'block'?document.getElementById('zad4').style.display = 'none':document.getElementById('zad4').style.display = 'block';">Zadanie 4</a> 
+<div id="zad4" style="display:none">Określ własności funkcji kwadratowej: dziedzinę, zbiór wartości, minimum lub maksimum, przedziały monotoniczności. 
+a)<img src="http://www.matematykam.pl/images/p145_0_08_01.png" alt="zadanie" /> <a href="#" onclick="javascript:window.open('http://www.matematykam.pl/files/pop_p1450_082.html', '', 'width=710px, height=580px');return false;" title=""> Wynik</a> 
+b)<img src="http://www.matematykam.pl/images/p145_0_08_02.png" alt="zadanie" /> <a href="#" onclick="javascript:window.open('http://www.matematykam.pl/files/pop_p1450_084.html', '', 'width=710px, height=580px');return false;" title=""> Wynik</a> 
+</div>
+
+<a href="#" onclick="document.getElementById('zad5').style.display == 'block'?document.getElementById('zad5').style.display = 'none':document.getElementById('zad5').style.display = 'block';">Zadanie 5</a> 
+<div id="zad5" style="display:none">Rozwiąż równanie lub nierównośc. 
+a)<img src="http://www.matematykam.pl/images/p145_0_10_01.png" alt="zadanie" /> <a href="#" onclick="javascript:window.open('http://www.matematykam.pl/files/pop_p1450_102.html', '', 'width=350px, height=150px');return false;" title=""> Wynik</a> 
+b)<img src="http://www.matematykam.pl/images/p145_0_12_01.png" alt="zadanie" /> <a href="#" onclick="javascript:window.open('http://www.matematykam.pl/files/pop_p1450_122.html', '', 'width=350px, height=150px');return false;" title=""> Wynik</a> 
+</div>

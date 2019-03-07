@@ -1,0 +1,12 @@
+<center><h3>Funkcja kwadratowa</h3></center>
+Jeżeli <b>a &#8800; 0</b>, to funkcję f określoną wzorem <b>f(x) = ax<sup>2</sup> + bx + c</b> nazywamy funkcją kwadratową.
+
+<b>a, b, c </b>- współczynniki liczbowe funkcji kwadratowej,
+<b>&#8710; = b<sup>2</sup> - 4ac </b>- wyróżnik funkcji kwadratowej.
+
+Dziedziną funkcji kwadratowej jest cały zbiór liczb rzeczywistych. 
+
+Funkcję kwadratową można zapisać w postaci ogólnej (wielomianowej), kanonicznej lub iloczynowej.
+- postać ogólna: <b>f(x) = ax<sup>2</sup> + bx + c</b>.
+- postać kanoniczna: <b>f(x) = a(x - p)<sup>2</sup> + q, gdzie   p=(-b)/2a, q=(-&#8710;)/4a;</b>
+- postać iloczynowa: <b>f(x) = a(x - x1)(x - x2)</b>, gdzie <b>x1, x2 są miejscami zerowymi</b>. 

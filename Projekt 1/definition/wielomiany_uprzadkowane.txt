@@ -1,0 +1,7 @@
+<center><h3>Wielomiany uporządkowane</h3></center>
+Wielomian jest uporządkowany, gdy jego składniki uporządkowane są malejąco ze względu na wykładniki potęg. Wielomian uporządkowany składający się z dwóch wyrazów nazywamy dwumianem, a wielomian uporządkowany składający się z trzech wyrazów nazywamy trójmianem.
+
+Przykłady uporządkowanych wielomianów
+2x<sup>2</sup>+1   (dwumian)
+x<sup>2</sup>+2x+1   (trójmian)
+x<sup>4</sup>−2x<sup>2</sup>−x+3

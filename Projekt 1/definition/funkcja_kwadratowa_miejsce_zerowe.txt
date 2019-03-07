@@ -1,0 +1,11 @@
+<center><h3>Miejsca zerowe funkcji kwadratowej</h3></center>
+
+Liczba miejsc zerowych funkcji kwadratowej zależy od wartości wyróżnika 
+<b>Δ = b<sup>2</sup> - 4ac </b>
+<b>W zależności od wyróżnika Δ funkcja kwadratowa:
+- posiada dwa miejsca zerowe dla Δ > 0.
+- posiada jedno podwójne miejsce zerowe dla Δ = 0,
+- nie posiada miejsc zerowych dla Δ < 0,</b>
+
+Dla Δ > 0 funkcja kwadratowa posiada dwa miejsca zerowe: x<sub>1</sub>=(−b−Δ)/2a,  x<sub>2</sub>=(−b+Δ)/2a
+Dla Δ = 0 jedynym miejscem zerowym jest x<sub>0</sub>=(−b)/2a

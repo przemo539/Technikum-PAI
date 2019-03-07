@@ -1,0 +1,14 @@
+﻿<center><h3>Wielomiany</h3></center>
+Wielomiany możemy podzielić ze względu na liczbę zmiennych, i tak wielomian 3x+2y będzie wielomianem dwóch zmiennych x i y, a wielomian 3x2+2x+1 będzie wielomianem jednej zmiennej x.
+
+Przykłady wielomianów
+3x<sup>2</sup>+2x+1)
+x<sup>2</sup>−2xy
+ax<sup>2</sup>+bx+c
+
+Stopień wielomianu to najwyższy ze stopni jednomianów wchodzących w jego skład.
+Wielomian 3+4−1 <b>jest stopnia zerowego.</b>
+Wielomian 2a+3 <b>jest stopnia pierwszego.</b>
+Wielomian 3x<sup>2</sup>+2x+1 <b>jest stopnia drugiego.</b>
+Wielomian 3a<sup>2</sup>+b<sup>2</sup>+2ab+1 <b>jest stopnia drugiego.</b>
+Wielomian −x<sup>3</sup>−1 <b>jest stopnia trzeciego.</b>

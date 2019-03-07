@@ -1,0 +1,8 @@
+<center><h3>Wykres funkcji kwadratowej</h3></center>
+
+Wykresem funkcji kwadratowej jest parabola, o wierzchołku <b>W=(−b/2a,−Δ/4a)</b>, która jest obrazem paraboli o równaniu <b>f(x) = ax<sup>2</sup></b>, w przesunięciu o wektor u<sup>→</sup>.
+
+<b>Gdy a > 0, to ramiona paraboli są skierowane w górę i posiada ona minimum globalne, w przeciwnym wypadku są skierowane w dół i ma ona maksimum globalne</b>.
+ Miejscem przecięcia wykresu funkcji kwadratowej z osią OY jest punkt (0, c). 
+ 
+<center><img src="http://www.math.edu.pl/images/analiza/funkcje/parabola-dol.gif" alt="wykres1" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.math.edu.pl/images/analiza/funkcje/parabola-gora.gif" alt="wykres2" /></center>
