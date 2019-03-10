@@ -1,0 +1,38 @@
+
+#kontener{
+	width: 704px;
+	height: 700px;
+	margin: 0 auto;
+}
+#naglowek{
+	height: 100px;
+	width: 700px;
+	background-color: yellow;
+	border-style: solid;
+	border-width: 2px;
+}
+#prawe_menu{
+	width: 300px;
+	height: 500px;
+	float: left;
+	background-color: #ffffe0;
+	border-left: 2px solid;
+	text-align: center;
+}
+#newsy{
+	width: 398px;
+	height: 500px;
+	float: left;
+	background-color: white;
+	border-left: 2px solid;
+	border-right: 2px solid;
+	text-align: center;
+}
+#stopka{
+	width: 700px;
+	height: 100px;
+	clear: both;
+	background-color: yellow;
+	border-style: solid;
+	border-width: 2px;
+}
